@@ -132,4 +132,5 @@ This code checks if the editedImage state variable has a value and, if so, rende
 - [Expo.Dev Docs](https://docs.expo.dev/) </br>
 Feel free to modify and enhance this code according to your project's needs. If you encounter any issues or have any questions, please don't hesitate to reach out for assistance.
 </br>
-***Please note that this project must be tested in a production environment. Running it through localhost may cause errors and is not recommended.
+
+*Please note that this project must be tested in a production environment. Running it through localhost may cause errors and is not recommended.*
